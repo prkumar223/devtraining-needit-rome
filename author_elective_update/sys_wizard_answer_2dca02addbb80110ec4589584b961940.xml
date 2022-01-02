@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Needit</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Needit</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">246ed24ba9223010c0a065f439e661f8</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-02 04:27:21</sys_created_on>
+        <sys_id>2dca02addbb80110ec4589584b961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_wizard_answer_2dca02addbb80110ec4589584b961940</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-02 04:27:21</sys_updated_on>
+        <table/>
+        <target_url>x_58872_needit_needit.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>aee4995ddb43d3c0ff27d5b0cf961928</instance_id>
+        <instance_name>dev63130</instance_name>
+        <name>sys_wizard_answer_2dca02addbb80110ec4589584b961940</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Needit</answer><button_label/><dependent_value/><element/><name>Needit</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">246ed24ba9223010c0a065f439e661f8</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-02 04:27:21</sys_created_on><sys_id>2dca02addbb80110ec4589584b961940</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Needit</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_wizard_answer_2dca02addbb80110ec4589584b961940</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-02 04:27:21</sys_updated_on><table/><target_url>x_58872_needit_needit.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>111702260</payload_hash>
+        <record_name>Needit</record_name>
+        <reverted_from/>
+        <source>7f7122d1db300110ec4589584b9619c7</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-01-01 11:28:09</sys_created_on>
+        <sys_id>96ec4221dbf80110ec4589584b9619dc</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17e1565a1280000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>56ec42215af8011025d08f947ea2bbdc</update_guid>
+        <update_guid_history>56ec42215af8011025d08f947ea2bbdc:111702260</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-02 04:36:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>274aad2e851a46009a4a5f6ae8c40000</sys_id>
+        <sys_metadata>2dca02addbb80110ec4589584b961940</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Task">246ed24ba9223010c0a065f439e661f8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_wizard_answer_2dca02addbb80110ec4589584b961940</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_2dca02addbb80110ec4589584b961940">96ec4221dbf80110ec4589584b9619dc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-02 04:36:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
